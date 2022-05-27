@@ -58,7 +58,7 @@ public class WebCam : MonoBehaviour
             //tex = new WebCamTexture(device.name);
             //display.texture = tex;
             //tex.Play();
-            WebCamDevice deviceLeft = WebCamTexture.devices[0];
+            WebCamDevice deviceLeft = WebCamTexture.devices[1];
             leftEye = new WebCamTexture(deviceLeft.name);
             displayLeft.texture = leftEye;
             leftEye.Play();
