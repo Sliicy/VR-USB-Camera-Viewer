@@ -251,12 +251,12 @@ Camera:
   serializedVersion: 2
   m_ClearFlags: 1
   m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
-  m_projectionMatrixMode: 1
-  m_GateFitMode: 2
+  m_projectionMatrixMode: 2
+  m_GateFitMode: 0
   m_FOVAxisMode: 0
-  m_SensorSize: {x: 36, y: 24}
+  m_SensorSize: {x: 16, y: 9}
   m_LensShift: {x: 0, y: 0}
-  m_FocalLength: 50
+  m_FocalLength: 8.75
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -265,7 +265,7 @@ Camera:
     height: 1
   near clip plane: 0.01
   far clip plane: 1000
-  field of view: 26.991467
+  field of view: 54.432228
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -552,12 +552,12 @@ Camera:
   serializedVersion: 2
   m_ClearFlags: 1
   m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
-  m_projectionMatrixMode: 1
-  m_GateFitMode: 2
+  m_projectionMatrixMode: 2
+  m_GateFitMode: 0
   m_FOVAxisMode: 0
-  m_SensorSize: {x: 36, y: 24}
+  m_SensorSize: {x: 16, y: 9}
   m_LensShift: {x: 0, y: 0}
-  m_FocalLength: 50
+  m_FocalLength: 8.75
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -566,7 +566,7 @@ Camera:
     height: 1
   near clip plane: 0.01
   far clip plane: 1000
-  field of view: 26.991467
+  field of view: 54.432228
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
