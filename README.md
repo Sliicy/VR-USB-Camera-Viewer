@@ -6,6 +6,7 @@
 
 ## Ever wanted to try doing this?
 ![VR](/Stretchy-Eyes.png)
+![VR](/Animorphs-Eyes.png)
 
 This project allows you to do so!
 
